@@ -1,0 +1,17 @@
+body{
+	overflow-x: hidden; 
+}
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+h2{
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: white;
+	z-index: 1;
+	padding: 1rem;
+	font-family: 'Courier New', Courier, monospace;
+}
